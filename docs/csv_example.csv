@@ -1,0 +1,5 @@
+﻿station,file,start_time,start_file_time,end_file_time
+diveX,path/to/file1,19:20:22,00:10:35,00:40:12
+diveX,path/to/file1,20:05:32,00:55:45,01:42:24
+diveX,path/to/file2,20:52:01,00:00:00,00:27:43
+diveY,path/to/file3,18:51:38,00:09:51,01:03:11
